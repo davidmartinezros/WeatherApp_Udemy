@@ -19,7 +19,7 @@ import './styles.css';
 //   wind:"normal"
 // }
 
-export const api_key = "10ba613520aec619d0e5f3931103a946";
+export const api_key = "8777bca95d8b7777478c6cf735ac551c";
 export const url_base_forecast = "https://api.openweathermap.org/data/2.5/forecast"
 
 class ForecastExtended extends Component {
