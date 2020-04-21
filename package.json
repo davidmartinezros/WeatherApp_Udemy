@@ -1,6 +1,7 @@
 {
   "name": "weather-app",
   "version": "0.1.0",
+  "homepage" : "https://davidmartinezros.com/Reactjs/WeatherApp_Udemy/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.0.0",
